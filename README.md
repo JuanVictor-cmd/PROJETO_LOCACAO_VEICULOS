@@ -131,7 +131,7 @@ O modelo utiliza relacionamentos entre `tb_km[ID_CLIENTE]` → `tb_cli[ID]`, com
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **[Seu Nome]**
+Feito com 💙 por **Juan Almeida**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvictor-cmd/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVictor-cmd)
