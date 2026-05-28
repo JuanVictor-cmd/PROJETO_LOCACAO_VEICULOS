@@ -110,16 +110,6 @@ O modelo utiliza relacionamentos entre `tb_km[ID_CLIENTE]` → `tb_cli[ID]`, com
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-📦 locacao-veiculos-powerbi
- ┣ 📊 LOCAÇÃO_DE_VEÍCULOS.pbix
- ┗ 📄 README.md
-```
-
----
-
 ## 🚀 Como Visualizar
 
 1. Faça o download do arquivo `LOCAÇÃO_DE_VEÍCULOS.pbix`
