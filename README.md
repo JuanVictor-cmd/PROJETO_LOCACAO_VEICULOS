@@ -5,7 +5,7 @@
 
 ## 📋 Sobre o Projeto
 
-Dashboard analítico desenvolvido no **Power BI** para monitoramento e análise de uma empresa de locação de veículos. O projeto centraliza informações de faturamento, perfil de clientes e previsão de receita em um painel interativo com navegação por abas, slicers dinâmicos e visuais customizados.
+Dashboard analítico desenvolvido no **Power BI** para monitoramento e análise de uma empresa fictícia de locação de veículos. O projeto centraliza informações de faturamento, perfil de clientes e previsão de receita em um painel interativo com navegação por abas, slicers dinâmicos e visuais customizados.
 
 ---
 
@@ -133,5 +133,5 @@ O modelo utiliza relacionamentos entre `tb_km[ID_CLIENTE]` → `tb_cli[ID]`, com
 
 Feito com 💙 por **[Seu Nome]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanvictor-cmd/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVictor-cmd)
